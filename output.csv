@@ -1,0 +1,5 @@
+Email,Senha,Resultado
+admin1@gmail.com,password,True
+admin2@gmail.com,password123,False
+admin2@gmail.com,password,True
+teste@gmail.com,password,False
